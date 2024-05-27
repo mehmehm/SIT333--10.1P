@@ -1,7 +1,10 @@
 package edu.deakin;
 
+import java.util.List;
+
 public class taskInbox {
-	public void getTaskList() {
+	public List<task> getTaskList() {
+		return null;
 		
 	}
 }
